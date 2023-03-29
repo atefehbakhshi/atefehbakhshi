@@ -13,7 +13,7 @@
 </p>
 
 <h2></h2>
-**<p align="center">Languages and Tools</p>**
+<h5 align="center">Languages and Tools</h5>**
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
