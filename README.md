@@ -13,7 +13,7 @@
 </p>
 
 <h2></h2>
-<h5 align="center">Languages and Tools</h5>**
+<h4 align="center">Languages and Tools</h4>
 <p align="center">
   <a target="_blank" href="https://javascript.info/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
@@ -61,8 +61,8 @@
 <h2></h2>
 </br>
 <div align="center">
-  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=atefehbakhshi&theme=dracula" />
-  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atefehbakhshi&langs_count=4&theme=dracula" />
+  <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=atefehbakhshi&theme=algolia" />
+  <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atefehbakhshi&langs_count=5&theme=algolia" />
 </div>
 
 <!--
