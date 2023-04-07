@@ -42,6 +42,9 @@
   <a target="_blank" href="https://sass-lang.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45"
       height="45" /></a>
+   <a target="_blank" href="https://tailwindcss.com/"><img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45"
+      height="45" /></a>
   <a target="_blank" href="https://material-ui.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
       alt="Material-UI" width="45" height="45" /></a>
